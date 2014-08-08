@@ -1,10 +1,5 @@
-.container{
-  height: 601px;
-  width: 902px;
-  border: 2px solid black;
-}
 .head{
-  width: 100%;
+  width: 902px;
   height: 200px;
   background: lightblue;
 }
