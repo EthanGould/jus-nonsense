@@ -1,3 +1,8 @@
 $(document).ready(function(){
-  $(this).on("click", function(){alert("Welcome aboard!")})
+  $(".bottom").on("click", fadeColor)
+
 });
+
+var fadeColor = function(){
+  $(".small-bottom").toggle( "highlight" );
+}
