@@ -1,0 +1,21 @@
+.bio-column-container img {
+  width:  100%;
+}
+
+
+.bio-column-container {
+  display: table;
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+.bio-column-container #left {
+  float: left;
+  width: 40%;
+}
+
+.bio-column-container #right {
+  float: right;
+  width: 40%;
+}
