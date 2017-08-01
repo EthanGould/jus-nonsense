@@ -9,6 +9,9 @@
   margin: 0 auto;
 }
 
+.ethan-test {
+   color: green;
+}
 
 .bio-column-container #left {
   float: left;
